@@ -8,7 +8,7 @@ qDesk Vibes is a module for qDesk. It's accessible across qDesk, you can use it 
 
 qDesk Vibes offers the ability to share music and videos, as well as to explore music and videos shared by peers on the network. qDesk Vibes is connected to [qDesk Social](https://github.com/QuestNetwork/qd-social-js) and uses the station supplied by qDesk Social. 
 
-Music and videos can be offered for free and artists can receive donations. Premium content is purchased using supported wallets. Copyright infringement is reported directly to the artists by free and premium crawlers. 
+Music and videos can be offered for free and artists can receive donations. Premium content is purchased using supported wallets. Copyright infringement is reported directly to the artists or their representatives by free and premium crawlers. 
 
 qDesk Vibes and qDesk Social are modules for [qDesk](https://github.com/QuestNetwork/qDesk) and it's built on [Quest OS](https://github.com/QuestNetwork/quest-os-js) which makes use of the [Interplanetary Filesystem](https://ipfs.io), [IPFS GossipSub](https://blog.ipfs.io/2020-05-20-gossipsub-v1.1/), [IPFS DAGs](https://docs.ipfs.io/concepts/merkle-dag/), and [qDesk](https://github.com/QuestNetwork/qDesk), our example app based on [Angular10](https://angular.io/).
 
