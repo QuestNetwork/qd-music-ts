@@ -6,7 +6,7 @@
 
 qDesk Music is a module for qDesk. It's accessible across qDesk, you can use it with qDesk Social, qDesk Messages and other qDesk modules.
 
-qDesk Music offers the ability to share music and join music shared by peers on the network. qDesk Music is connected to [qDesk Social](https://github.com/QuestNetwork/qd-social-js) and uses the station supplied by qDesk Social. 
+qDesk Music offers the ability to share music and explore music shared by peers on the network. qDesk Music is connected to [qDesk Social](https://github.com/QuestNetwork/qd-social-js) and uses the station supplied by qDesk Social. 
 
 Music can be offered for free and artists can receive donations. Premium content is purchased using supported wallets. Copyright infringement is reported directly to the artists by free and premium crawlers. 
 
