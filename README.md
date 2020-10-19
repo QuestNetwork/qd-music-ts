@@ -6,7 +6,9 @@
 
 qD Vibes is a module for qDesk. It's accessible across qDesk, you can use it with qD Social, qD Messages and other qD modules.
 
-qD Vibes offers the ability to share music and videos, as well as to explore music and videos shared by peers on the network. qD Vibes is connected to [qD Social](https://github.com/QuestNetwork/qd-social-js) and uses the station supplied by it.
+qD Vibes offers the ability to share music and videos, as well as to explore music and videos shared by peers on the network. 
+
+qD Vibes is connected to [qD Social](https://github.com/QuestNetwork/qd-social-js) and uses the station supplied by it.
 
 Music and videos can be offered for free and artists can receive donations. Premium content is purchased using supported wallets. Copyright infringement is reported directly to the artists or their representatives by free and premium crawlers. 
 
